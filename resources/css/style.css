@@ -570,6 +570,14 @@ footer .copyright {
       }
       footer .content{
         font-size: 10px;
+        padding: 0rem 0.5rem;
       }
-  
+      footer .content .copyright, footer .content .location{
+        max-width: 40%;
+        
+      }
+      footer .content .location{
+        text-align: right;
+      }
+      
 }
